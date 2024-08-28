@@ -1,5 +1,5 @@
 <h1>Git Essential Tools 1</d67>
 
-<p>It Provides essentials for Git Environment.</p>
+<p>for easy coding environment.</p>
 
-<p>Seemless utilization of Git for Senior Developers </p>
+<p>best options for senior developers </p>
